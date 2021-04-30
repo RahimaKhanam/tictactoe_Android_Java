@@ -9,18 +9,19 @@ So, I started off the journey by making the app- Tic Tac Toe. It is a really nic
 
 The game starts with X's turn:
 
-![P1](https://user-images.githubusercontent.com/76172860/116613405-42ec5c00-a956-11eb-93ff-78e204cdf9e2.jpeg)
+<img src="https://user-images.githubusercontent.com/76172860/116613405-42ec5c00-a956-11eb-93ff-78e204cdf9e2.jpeg" height=500>
 
  And then O takes his turn:
-
-![P2](https://user-images.githubusercontent.com/76172860/116613396-41229880-a956-11eb-90b0-8944fb0329db.jpeg)
+ 
+ <img src="https://user-images.githubusercontent.com/76172860/116613396-41229880-a956-11eb-90b0-8944fb0329db.jpeg" height=500>
 
  Whenever X wins, a message with **X has Won!** gets displayed on the screen:
-
-![P3](https://user-images.githubusercontent.com/76172860/116613399-41bb2f00-a956-11eb-9aa1-69134c610fa0.jpeg)
+ 
+ <img src="https://user-images.githubusercontent.com/76172860/116613399-41bb2f00-a956-11eb-9aa1-69134c610fa0.jpeg" height=500>
 
 Similarly for O:
 
-![P4](https://user-images.githubusercontent.com/76172860/116613402-4253c580-a956-11eb-92c8-731f35d596e0.jpeg)
+ <img src="https://user-images.githubusercontent.com/76172860/116613402-4253c580-a956-11eb-92c8-731f35d596e0.jpeg" height=500>
+
 
 
